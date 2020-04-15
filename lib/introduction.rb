@@ -6,6 +6,6 @@ end
 
 # lib/introduction_with_langauge
 
-def introduction_with_langauge(name,language)
+def introduction_with_langauge("name","language")
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
